@@ -1,3 +1,4 @@
+//const TituloSecundario = ({comision, anioActualProps}) me da la ventaja de no tener que poner props.comision y poner comision directamente
 const TituloSecundario = (props) => {
   return (
     <article>
